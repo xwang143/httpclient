@@ -1,5 +1,11 @@
-ml
-.idea
-target
-**/**.DS_*
+# Intellij
+.idea/
+*.iml
+*.iws
 
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
